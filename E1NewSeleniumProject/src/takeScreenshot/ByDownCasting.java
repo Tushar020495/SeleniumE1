@@ -31,6 +31,6 @@ public class ByDownCasting {
 
 		Files.copy(src, dest);
 
-	}* 
+	}
 
 }
